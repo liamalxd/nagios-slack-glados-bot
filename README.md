@@ -59,7 +59,7 @@ define service{
 
 This causes nagios alarms to be sent directly to the script and processed.
 
-** Script **
+**Script**
 
 As long as you have python3 installed you can install the Python required packages with:  
 pip3 install -r requirements.txt
