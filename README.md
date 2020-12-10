@@ -1,6 +1,8 @@
 ---
-A simple Slack bot to process Nagios notifications
+nagios-slack-glados-bot
 ---
+A simple Slack bot to process Nagios notifications
+
 **Install Instructions**
 
 **Slack**
